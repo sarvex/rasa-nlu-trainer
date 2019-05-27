@@ -1,7 +1,13 @@
-# rasa-nlu-trainer
+# deprecated: rasa-nlu-trainer
+
+We recommend you use [Rasa X](https://rasa.com/docs/rasa-x/) instead.
+
+
+
+
+
+
 This is a tool to edit your training examples for [rasa NLU](https://github.com/rasahq/rasa_nlu)
-
-
 Use the [online version](https://rasahq.github.io/rasa-nlu-trainer/) or [install with npm](#installation)
 
 ## installation
